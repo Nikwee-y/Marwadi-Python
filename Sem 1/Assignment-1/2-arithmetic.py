@@ -1,3 +1,9 @@
+# Write a python program to do aritmetical operations.
+
+print("M.Sc.(CS&CL) Semester 1")
+print("Enrollment No.: 92600565001")
+print("Durganand diwakar")
+
 print("Welcome to the Python Calculator.")
 
 print("Please select the operation from the down below.\n" \

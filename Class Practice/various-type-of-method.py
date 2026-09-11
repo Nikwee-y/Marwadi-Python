@@ -18,7 +18,7 @@ Student = Student()
 
 # Calling the display details 
 Student.display_details(
-    "Mansi chudail",
+    "Durganand diwakar",
     "MU56093405001",
     "Student of msc cybersecurity"
 )

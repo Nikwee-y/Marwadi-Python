@@ -1,3 +1,9 @@
+# Write a python program to swap two variable.
+
+print("M.Sc.(CS&CL) Semester 1")
+print("Enrollment No.: 92600565001")
+print("Durganand diwakar")
+
 a = 10 
 b = 45
 
