@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🐍 Python Programming
 
 ### M.Sc. • Semester 1
@@ -11,7 +11,7 @@
 ![Assignments](https://img.shields.io/badge/Assignments-05-6C63FF?style=for-the-badge)
 ![Programs](https://img.shields.io/badge/Programs-50-20A17A?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Semester%20Work-orange?style=for-the-badge)
-:::
+
 
 ------------------------------------------------------------------------
 
