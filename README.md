@@ -5,7 +5,7 @@
 
 **A collection of 50 Python practical programs across 5 assignments.**
 
-`<br>`{=html}
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assignments](https://img.shields.io/badge/Assignments-05-6C63FF?style=for-the-badge)
